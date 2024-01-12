@@ -3141,15 +3141,6 @@ MonoBehaviour:
   playPauseButton: {fileID: 1829074943}
   audioSlider: {fileID: 904152961}
   audioSliderText: {fileID: 160941201}
-  isMusicPlaying: 0
-  isPageSetup: 0
-  currentImageIndex: 0
-  imageSwapTimer: 0
-  imageSwapTimerMax: 3
-  imageLocationList: []
-  spriteList: []
-  audioClipLocation: 
-  isDraggingSlider: 0
 --- !u!1 &1630882362
 GameObject:
   m_ObjectHideFlags: 0
@@ -3504,12 +3495,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30386d65c3981594aafb985922dd4894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  filesToDownload: []
-  imageFileList: []
-  audioFileList: []
-  parsedContent:
-    TranslatedContents: []
-  downloadedImageLocations: []
 --- !u!1 &2045510145
 GameObject:
   m_ObjectHideFlags: 0
